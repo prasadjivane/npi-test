@@ -1,6 +1,6 @@
 {
   "name": "npi-test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CLI API Tester: Effortlessly Test RESTful APIs from the Command Line. Real-time api-testing from cli.",
   "main": "index.js",
   "scripts": {
