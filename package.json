@@ -1,0 +1,46 @@
+{
+  "name": "npi-test",
+  "version": "1.0.0",
+  "description": "CLI API Tester: Effortlessly Test RESTful APIs from the Command Line. Real-time api-testing from cli.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "success"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasadjivane/npi-test.git"
+  },
+  "keywords": [
+    "api-test-cli",
+    "cli-api-tester",
+    "rest-api-cli",
+    "http-method-tester",
+    "command-line-api-test",
+    "api-testing-tool",
+    "node-api-tester",
+    "npm-api-tester",
+    "cli-rest-api-client",
+    "api-request-cli",
+    "api-testinng",
+    "reporting",
+    "api-health-check",
+    "cli-tool",
+    "api-test",
+    "api",
+    "tester",
+    "http",
+    "request",
+    "cli"
+  ],
+  "author": "Prasad Jivane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prasadjivane/npi-test/issues"
+  },
+  "homepage": "https://github.com/prasadjivane/npi-test#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "commander": "^12.0.0"
+  }
+}
