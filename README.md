@@ -104,8 +104,8 @@ Response Time: 295ms
 
 ## Contributing
 
-Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find any bugs or want to add new features, feel free to open an [issue](https://github.com/prasadjivane/npi-test/issues) or submit a [pull](https://github.com/prasadjivane/npi-test/pulls) request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/prasadjivane/npi-test?tab=MIT-1-ov-file).
